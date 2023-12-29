@@ -21924,7 +21924,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	xscissor: {
 		num: 404,
 		accuracy: 100,
-		basePower: 80,
+		basePower: 800,
 		category: "Physical",
 		name: "X-Scissor",
 		pp: 15,
