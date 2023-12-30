@@ -14961,7 +14961,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	quickattack: {
 		num: 98,
 		accuracy: 100,
-		basePower: 40,
+		basePower: 400,
 		category: "Physical",
 		name: "Quick Attack",
 		pp: 30,
