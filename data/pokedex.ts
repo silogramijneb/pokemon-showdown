@@ -19730,4 +19730,17 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	// ************************ NEW MONS ************************ //
+	weezit: {
+		num: 316,
+		name: "Weezit",
+		types: ["Bug"],
+		baseStats: {hp: 35, atk: 30, def: 40, spa: 55, spd: 40, spe: 55},
+		abilities: {0: "Defeatist", 1: "Adaptability", H: "Overcoat"},
+		heightm: 0.4,
+		weightkg: 10.3,
+		color: "Green",
+		//evos: ["Swalot"],
+		eggGroups: ["Bug"],
+	},
 };
