@@ -19732,7 +19732,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	// ************************ NEW MONS ************************ //
 	weezit: {
-		num: 316,
+		num: -5002,
 		name: "Weezit",
 		types: ["Bug"],
 		baseStats: {hp: 35, atk: 30, def: 40, spa: 55, spd: 40, spe: 55},
